@@ -1,0 +1,1 @@
+{"name":"Local: prove-primary_diagonal","url":"d:\\2D ARRAY\\prove-primary_diagonal.c","tests":[{"id":1716522284781,"input":"3 3\n1 0 0\n0 3 0\n0 0 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\2D ARRAY\\prove-primary_diagonal.c","group":"local","local":true}

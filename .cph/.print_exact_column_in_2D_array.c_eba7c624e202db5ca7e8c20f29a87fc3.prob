@@ -1,0 +1,1 @@
+{"name":"Local: print_exact_column_in_2D_array","url":"d:\\2D ARRAY\\print_exact_column_in_2D_array.c","tests":[{"id":1716519096860,"input":"5 3\n1 2 3 \n4 5 6\n7 8 9\n10 11 12\n13 14 15\n2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\2D ARRAY\\print_exact_column_in_2D_array.c","group":"local","local":true}
